@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulationKakuro",
+  "simulationId": "recordedsimulationkakuro",
+  "start": 1561536160452,
+  "description": "",
+  "scenarios": ["RecordedSimulationKakuro"],
+  "assertions": [
+
+  ]
+}
